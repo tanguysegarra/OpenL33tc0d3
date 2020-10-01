@@ -18,5 +18,5 @@ Pierre [@Cheriende](https://github.com/Cheriende)
 
 ## Special Thanks
 
-* Github: for allowing us to work together in a frendly environment.
+* Github: for allowing us to work together in a friendly environment.
 * StackOverflow: for having answer to all our questions
