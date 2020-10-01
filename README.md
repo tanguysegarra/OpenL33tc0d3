@@ -7,4 +7,7 @@ This repository tries to regroup every Leetcode solution in the most understanda
 ## Contributors
 
 Anas [@ItsAnas](https://github.com/ItsAnas)
+
 Tanguy [@tanguysegarra](https://github.com/tanguysegarra)
+
+Pierre [@Cheriende](https://github.com/Cheriende)
